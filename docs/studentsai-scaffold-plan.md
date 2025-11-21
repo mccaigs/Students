@@ -1,3 +1,11 @@
+codex/create-scaffold-plan-for-studentsai
+=======
+docs/studentsai-scaffold-plan.md
+New
++149
+-0
+
+main
 # StudentsAI Scaffold Plan
 
 This plan translates the StudentsAI documentation into an actionable scaffold for building the platform from scratch.
